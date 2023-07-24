@@ -1,0 +1,1 @@
+Simple c++ code with the logic and can be used by anyone
