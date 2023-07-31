@@ -1,5 +1,4 @@
 // C++ code
-//
 #include <LiquidCrystal_I2C.h>
 
 int buz = 0;
